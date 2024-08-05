@@ -8,6 +8,6 @@ operacionSuma=Suma(num1,num2)
 operacionSuma.sumar()
 print(operacionSuma.resultado)
 
-operacionResta=Resta(num1,num2)
+operacionResta=Resta(78,788)
 operacionResta.restar()
 print(operacionResta.resultado)
